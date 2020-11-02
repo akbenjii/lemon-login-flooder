@@ -1,0 +1,15 @@
+{
+  "name": "lemon-login-flooder",
+  "version": "1.0.0",
+  "description": "flood socket connections to login server, thus leaving it unresponsive.",
+  "main": "flooder.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "benji",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "prompt-sync": "^4.2.0"
+  }
+}
