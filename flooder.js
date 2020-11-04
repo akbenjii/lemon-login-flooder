@@ -29,7 +29,7 @@ async function floodConnection(ip, port) {
             if(connections == connectionLimit) return console.log(c.magentaBright(`Successfully created all ${connectionLimit} connections!`));
             resolve();
         })
-        socket.on('error', function (err) {
+        socket.on('error', (err) => {
             return console.log(c.redBright(`[ERROR] There was an error connecting to ${ip} on port ${port}: ${err.toString().replace('Error: ', "")}`));
         });
     });
