@@ -32,3 +32,5 @@ Choose how many connections to send. note: you should use a vpn.
 
 Use ctrl + c to exit the script.
 ```
+# Support
+https://discord.gg/XsgAd3h4yw
