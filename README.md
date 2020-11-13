@@ -32,5 +32,6 @@ Choose how many connections to send. note: you should use a vpn.
 
 Use ctrl + c to exit the script.
 ```
-# Support
-https://discord.gg/XsgAd3h4yw
+<h1 align="center">Support</h1>
+
+<center><a href="https://discord.gg/XsgAd3h4yw"> Join discord </a></center>
