@@ -1,3 +1,6 @@
+<h1 align="center"> DEPRECATED </h1>
+<p align="center"> Since January 12, 2021, you can no longer use this. (obviously) </p>
+
 <h1 align="center">🍋Lemon - Login Flooder🍋</h1>
 <p align="center"><b>⚠️ REMEMBER TO USE A VPN, YOUR IP ADDRESS IS EXPOSED ⚠️</b></p>
 <h3 align="center">CPPS Login Killer</h3>
